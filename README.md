@@ -5,3 +5,5 @@
 
 
 Projeto de Estudo SpringBoot
+
+Simples configuração de um projeto com Spring
